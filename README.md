@@ -1,4 +1,4 @@
-# Smplanner
+# Smplanner             Visit : (https://mriduldutt.github.io/smplanner.github.io/)
 
 ## Overview
 
@@ -33,8 +33,8 @@ Contributions are what make the open-source community such an amazing place to l
 
 1. Create your Feature Branch (git checkout -b feature/AmazingFeature)
 2. Commit your Changes (git commit -m 'Add some AmazingFeature')
-3 .Push to the Branch (git push origin feature/AmazingFeature)
-4.Open a Pull Request
+3. Push to the Branch (git push origin feature/AmazingFeature)
+4. Open a Pull Request
 
 
 ## License
