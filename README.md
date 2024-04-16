@@ -1,4 +1,4 @@
-# Smplanner             Visit : (https://mriduldutt.github.io/smplanner.github.io/)
+# Smplanner             
 
 ## Overview
 
