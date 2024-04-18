@@ -1,4 +1,5 @@
-# Smplanner             
+# Smplanner      
+Smplanner is a simple yet effective web application developed for practicing HTML and CSS. It serves as a practical project for honing your front-end development skills while exploring the basics of web design and layout. Dive into Smplanner to strengthen your understanding of HTML structure, CSS styling, and responsive design techniques.
 
 ## Overview
 
